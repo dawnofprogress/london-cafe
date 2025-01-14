@@ -68,6 +68,6 @@ License
 MIT License - feel free to use and modify for your own projects.
 
 Author
-Usman Riaz
+Syed Usman Riaz
 GitHub: @dawnofprogress
 LinkedIn: [Syed Usman Riaz](https://www.linkedin.com/in/syed-usman-riaz/)
