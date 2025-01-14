@@ -1,6 +1,8 @@
 # London Café Website
 
 A responsive website for a London-based café featuring menu categories, about section, and contact information.
+## Live Link: 
+https://dawnofprogress.github.io/london-cafe
 
 ## File Structure
 london-cafe/ │ ├── index.html ├── README.md │ ├── assets/ │ ├── css/ │ │ └── styles.css │ ├── js/ │ │ └── main.js │ └── images/ │ ├── London-Café.jpg │ ├── coffee-bean.jpg │ ├── pastry.jpg │ └── ambiance.jpg │ └── pages/ ├── about.html ├── categories.html └── contact.html
